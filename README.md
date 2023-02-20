@@ -6,5 +6,5 @@
 
 ### About me
 
-Student at NIT Calicut. Incomming SDE @VISA Inc. I love web developing and to solve coding problems.
+Incoming SDE @VISA Inc. Student at NIT Calicut. I love web developing and to solve coding problems.
 
