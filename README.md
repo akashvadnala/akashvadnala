@@ -6,5 +6,5 @@
 
 ### About me
 
-Present Undergradate in Electronics and Communication Engineering at National Institute of Technology Calicut. I love web developing and to solve coding problems and I'm open to opportunities.
+Student at NIT Calicut. Incomming SDE @VISA Inc. I love web developing and to solve coding problems.
 
