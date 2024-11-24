@@ -6,5 +6,5 @@
 
 ### About me
 
-Incoming SDE @VISA Inc. Student at NIT Calicut. I love web developing and to solve coding problems.
+Software Engineer at Visa Inc. Graduated from NIT Calicut.
 
